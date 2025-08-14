@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/game_mode_navigation"
+    app:startDestination="@id/basicmode">
+
+    <fragment
+        android:id="@+id/basicmode"
+        android:name="com.anand.tictactoe.basicmode.Basicmode"
+        android:label="Basic Mode"
+        tools:layout="@layout/fragment_basicmode" />
+
+    <fragment
+        android:id="@+id/promode"
+        android:name="com.anand.tictactoe.promode.promode"
+        android:label="Pro Mode"
+        tools:layout="@layout/fragment_promode" />
+
+</navigation>
