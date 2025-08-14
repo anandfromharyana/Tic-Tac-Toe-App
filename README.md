@@ -5,11 +5,11 @@ A modern, feature-rich Tic Tac Toe game for Android with two exciting game modes
 ## 📱 Screenshots
 
 <!-- Add your app screenshots here -->
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/444f6835-0a46-43ce-978a-4c85dbe11403" />
+<img width="108" height="240" alt="image" src="https://github.com/user-attachments/assets/444f6835-0a46-43ce-978a-4c85dbe11403" />
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/dab12016-6868-4717-8ad6-eef19748e555" />
+<img width="108" height="240" alt="image" src="https://github.com/user-attachments/assets/dab12016-6868-4717-8ad6-eef19748e555" />
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/63e9594d-ca43-4a04-9450-efb458200e9f" />
+<img width="108" height="240" alt="image" src="https://github.com/user-attachments/assets/63e9594d-ca43-4a04-9450-efb458200e9f" />
 
  
 ## ✨ Features
